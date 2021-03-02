@@ -1,4 +1,4 @@
-Config service service for TravelApp.
+Config service for TravelApp.
 
 All services:
 - discovery-service: https://github.com/PartykaMateusz/discoveryService
